@@ -1,7 +1,13 @@
 package com.yanglijing.util.utils;
 
 import java.io.File;
-
+/**
+ * 
+ * @ClassName: FileUtil 
+ * @Description: TODO
+ * @author:ylj 
+ * @date: 2019年9月20日 上午8:18:36
+ */
 public class FileUtil {
 
 	/*

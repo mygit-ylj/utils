@@ -3,7 +3,13 @@ package com.yanglijing.util.utils;
 import java.util.Calendar;
 import java.util.Date;
 import java.util.Random;
-
+/**
+ * 
+ * @ClassName: DateUtil 
+ * @Description: TODO
+ * @author:ylj 
+ * @date: 2019年9月20日 上午8:18:45
+ */
 public class DateUtil {
 
 	/*
